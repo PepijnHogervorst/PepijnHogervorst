@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Pepijn Hogervorst 
+### Hi there 👋 My name is Pepijn 
 
 - 🔭 I’m currently working on points-board, 
 - 🌱 I’m currently learning C#, Python
