@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Pepijn 
 
-I'm BoS Electrical Engineer that is focussed at machine automatisation, communication and writing scalable and readable code. I like working with object oriented languages such as C#, python and C++.
+I'm a BoS Electrical Engineer that is focussed at machine automatisation, communication and writing scalable and readable code. I like working with object oriented languages such as C#, python and C++.
 
 - 🔭 I’m currently working on a LED points-board with a huge arcade push button. 
 - 🌱 I’m currently learning C# and Python
